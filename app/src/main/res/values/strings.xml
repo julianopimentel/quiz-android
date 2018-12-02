@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Think</string>
+    <string name="toast_message">" 1.   Digite o seu nome.
+
+ 2.   Digite o seu e-mail.
+        ex:   abc@xyz.com
+
+ 3.   Agora defina sua senha
+        para o seu acesso.
+
+        Aproveite o app! ☺</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_navigation_activity">Quiz Crimes Cibernéticos</string>
+    <string name="title_activity_navigation_">Navigation_Activity</string>
+    <string name="title_activity_about_us">Sobre</string>
+    <string name="note">Quiz Crimes Cibernéticos é um aplicativo inteligente que é projetado com interface de usuário simples e otimizada. Quiz tem todas as categorias de perguntas que são usadas na vida diária do profissional de TI.</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="title_activity_questions">Questões</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_score_card">Pontuações</string>
+    <string name="title_activity_setting_activity">Configurações</string>
+    <string name="email_content">Hey there! Take a look at the app developed by Juliano.\n\nHere is the link to the app:\n\n </string>
+    <string name="link"><u>http://deskapps.online/</u></string>
+    <string name="last_content">\n\nSteps: click on download.</string>
+
+</resources>

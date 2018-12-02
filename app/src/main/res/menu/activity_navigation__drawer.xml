@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_scorecard"
+            android:icon="@drawable/scorecard_drwaer"
+            android:title="Pontuação" />
+        <item
+            android:id="@+id/nav_Setting"
+            android:icon="@drawable/setting_drawer"
+            android:title="Configurações" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/feedback_drawer"
+            android:title="Sugestão" />
+        <item
+            android:id="@+id/nav_Help"
+            android:icon="@drawable/help_drawer"
+            android:title="Ajuda" />
+    </group>
+
+    <item android:title="Extras">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_drawer"
+                android:title="Compartilhar" />
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/about_us_drawer"
+                android:title="Sobre" />
+        </menu>
+    </item>
+
+</menu>
